@@ -101,33 +101,6 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 streamlit run app.py
 ```
 
----
-
-## 📸 Screenshots
-
-### Home Page
-
-(Add screenshot here)
-
----
-
-### Chat Analysis
-
-(Add screenshot here)
-
----
-
-### OCR Analysis
-
-(Add screenshot here)
-
----
-
-### Analytics Dashboard
-
-(Add screenshot here)
-
----
 
 ## 📈 Project Structure
 
@@ -159,7 +132,7 @@ ScamShield-AI/
 
 ## 👩‍💻 Author
 
-** c Harshitha **
+** C Harshitha **
 
 Computer Science Engineering Student
 
