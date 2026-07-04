@@ -124,7 +124,7 @@ ScamShield-AI/
 
 ### 💬 Scam Analysis
 
-![Scam Analysis](screenshots/chat_analysis.png)
+![Scam Analysis](screenshots/analysis.png)
 
 ---
 
