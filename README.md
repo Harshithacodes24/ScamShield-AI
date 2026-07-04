@@ -6,6 +6,29 @@ ScamShield AI is an intelligent fraud detection and awareness application develo
 
 The application not only detects scams but also explains why a message is considered suspicious by highlighting risk indicators and providing awareness tips to educate users.
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+### 💬 Scam Analysis
+
+![Scam Analysis](screenshots/analysis.png)
+
+---
+
+### 📊 Analytics Dashboard
+
+![Analytics Dashboard](screenshots/dashboard.png)
+---
+---
+
+### 📷 OCR Analysis
+
+![OCR Analysis](screenshots/ocr_analysis.png)
 
 ## ✨ Features
 
@@ -114,29 +137,6 @@ ScamShield-AI/
 ├── .gitignore
 └── screenshots/
 ```
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-![Home Page](screenshots/home.png)
-
----
-
-### 💬 Scam Analysis
-
-![Scam Analysis](screenshots/analysis.png)
-
----
-
-### 📊 Analytics Dashboard
-
-![Analytics Dashboard](screenshots/dashboard.png)
----
----
-
-### 📷 OCR Analysis
-
-![OCR Analysis](screenshots/ocr_analysis.png)
 
 ## 🔮 Future Enhancements
 
