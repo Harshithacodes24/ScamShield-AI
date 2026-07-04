@@ -114,8 +114,29 @@ ScamShield-AI/
 ├── .gitignore
 └── screenshots/
 ```
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
 
 ---
+
+### 💬 Scam Analysis
+
+![Scam Analysis](screenshots/chat_analysis.png)
+
+---
+
+### 📊 Analytics Dashboard
+
+![Analytics Dashboard](screenshots/dashboard.png)
+---
+---
+
+### 📷 OCR Analysis
+
+![OCR Analysis](screenshots/ocr_analysis.png)
 
 ## 🔮 Future Enhancements
 
